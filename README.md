@@ -1,5 +1,5 @@
 # Watch-TV-Watch
 
-Who's gonna decide what we're watching on TV tonight? If this question sounds familar to you then this device is for you.
+Who decides what we're going to watch on TV tonight? If this question sounds familar to you then this device is for you.
 
-The Watch-TV-Watch determines based on the current date who's turn it is to decide what the family is going to watch on TV tonight. It also has a button to initiate a random selection regardless of the current date. Besides that there are rumors that the Watch-TV-Watch has a secret web interface to manipulate the final decision, but -- **Ssshht!** -- maybe not everybody must know these technical details.
+The Watch TV Watch uses the current date to determine whose turn it is to decide what the family will watch on TV tonight. It also has a button that triggers a random selection regardless of the current date. There are also rumors that the Watch TV Watch has a secret web interface to manipulate the final decision, but -- ssshht! -- maybe not everyone needs to know those technical details.
