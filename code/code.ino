@@ -35,12 +35,14 @@ const long utcOffsetInSeconds = 3600;
 
 int pin = 2;
 
+// you probably want to adjust these values to the behaviour of your stepper motor
 #define IN1 5
 #define IN2 4
 #define IN3 14
 #define IN4 12
 const int stepsPerRevolution = 51;  // change this to fit the number of steps per revolution
 
+// replace ChildOne and ChildTwo with the names of you family members
 const int PosMama = 0;
 const int PosPapa = 72;
 const int PosChildTwo = 48;
