@@ -1,4 +1,4 @@
-# Familie-TVatch
+# Familiy-TWatch
 
 Who decides what we're going to watch on TV tonight? If this question sounds familar to you then this device is for you. This watch helps you and your family to determine who will decide what the family watches on TV tonight.
 
